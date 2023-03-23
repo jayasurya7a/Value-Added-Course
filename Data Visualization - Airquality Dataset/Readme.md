@@ -1,0 +1,7 @@
+![Rplot01](https://user-images.githubusercontent.com/72197861/227278241-43a241e7-a3ae-4e4f-8fd8-6922937ecd81.png)
+![Rplot02](https://user-images.githubusercontent.com/72197861/227278251-a8963eb3-0d0a-4fdc-b148-941f0ec30465.png)
+![Rplot03](https://user-images.githubusercontent.com/72197861/227278269-739149da-8e64-4f5f-8cc8-212b2aceba6d.png)
+![Rplot04](https://user-images.githubusercontent.com/72197861/227278274-d1375881-50e3-40d6-991a-720cecb653e4.png)
+![Rplot06](https://user-images.githubusercontent.com/72197861/227278287-8a06c63c-ce7a-4e66-8940-fab7c16bdd58.png)
+![Rplot07](https://user-images.githubusercontent.com/72197861/227278298-db67d3f5-f70e-4671-b647-6c98e5de4e8b.png)
+![Rplot08](https://user-images.githubusercontent.com/72197861/227278303-c20fe63e-706c-4f0b-befa-a59f520626d7.png)
